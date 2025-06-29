@@ -2,6 +2,9 @@
 
 A scalable backend API built with **Node.js**, **TypeScript**, **Express**, **Sequelize (MySQL)**, and **Redis**. This API allows users to fetch, cache, and manage book reviews, with full unit testing using **Jest** and **Supertest**.
 
+## SwaggerDoc API
+http://localhost:3000/docs/
+
 ---
 
 ## 🚀 Features
